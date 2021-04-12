@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/aWqgG9pC8g.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [RecordIt](https://recordit.co).
-
+ 
 ## Notes
 
 Describe any challenges encountered while building the app.
